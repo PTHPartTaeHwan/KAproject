@@ -1,0 +1,11 @@
+.idea/
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Platforms/
+Saved/
+.vsconfig
+KAProject.sln
+KAProject.uproject
+Content/
